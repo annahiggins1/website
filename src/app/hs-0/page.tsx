@@ -21,7 +21,7 @@ const members = [
     major: "Computer Science and Math",
     graduatingYear: "2026",
     image:
-      "https://media.licdn.com/dms/image/D4E03AQG9rhH5UVoFwQ/profile-displayphoto-shrink_400_400/0/1684768055324?e=1700697600&v=beta&t=5VRDplUmjpAB0s4q2DazCNBmbDbdo63OMZTLhhBnwNY";
+      "https://media.licdn.com/dms/image/D4E03AQG9rhH5UVoFwQ/profile-displayphoto-shrink_400_400/0/1684768055324?e=1700697600&v=beta&t=5VRDplUmjpAB0s4q2DazCNBmbDbdo63OMZTLhhBnwNY",
   }
 ];
 
