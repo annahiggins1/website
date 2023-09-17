@@ -16,6 +16,13 @@ const members = [
     image:
       "https://media.licdn.com/dms/image/D4E03AQECes9egjScKw/profile-displayphoto-shrink_800_800/0/1668552656586?e=1695859200&v=beta&t=lKPz_Un65g6Hn1ZCdtmoKV2bS86bOAj-r1ilxHjT-kQ",
   },
+  {
+    name: "Anna Higgins",
+    major: "Computer Science and Math",
+    graduatingYear: "2026",
+    image:
+      "https://media.licdn.com/dms/image/D4E03AQG9rhH5UVoFwQ/profile-displayphoto-shrink_400_400/0/1684768055324?e=1700697600&v=beta&t=5VRDplUmjpAB0s4q2DazCNBmbDbdo63OMZTLhhBnwNY";
+  }
 ];
 
 export default function HS0() {
